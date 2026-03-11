@@ -1,24 +1,3 @@
-// //Define a javascript Object
-// const planes = [{
-
-//     manufacturer: 'Airbus',
-//     model: 'A320'
-
-//     },
-//     {
-    
-//     manufacturer: 'Boeing',
-//     model: '737'
-
-//     }
-// ]
-// console.log(planes)//Display the object
-
-// const planesText = JSON.stringify(planes)
-// console.log(planesText)//Display the object as a JSON
-
-// console.log(JSON.parse(planesText))//Display the object
-
 fetch(
     'https://raw.githubusercontent.com/TonySoftwareEngineer/myFirstWebsite/main/languages.txt'
 )
